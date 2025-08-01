@@ -14,7 +14,7 @@ export default function CompactLoginScreen({ navigation }) {
         </View>
         <View className="items-center">
           <Text className="text-2xl font-bold text-gray-900 mb-1">Welcome</Text>
-          <Text className="text-sm text-gray-500">Accessssssssssssss your account</Text>
+          <Text className="text-sm text-gray-500">Accesssdddsssssssssss your account</Text>
         </View>
       </View>
 
